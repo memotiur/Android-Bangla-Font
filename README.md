@@ -1,6 +1,9 @@
 ### Android-Bangla-Font
 Here is the example, how to use custom Bangla font in android apps.
 
+//Read Me file edit Example.
+Here is our code code.
+
 ```java
 public class MainActivity extends AppCompatActivity {
     int fontSize=20,fontHeader=24;
@@ -38,3 +41,4 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
+https://guides.github.com/features/mastering-markdown/
